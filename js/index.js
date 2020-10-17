@@ -306,7 +306,7 @@ var quotes = [
     {
         quote: "If you can dream it, you can achieve it.", author: "Zig Ziglar"
     }
-]
+];
 
 function updateQuote() {
     var length = quotes.length;
